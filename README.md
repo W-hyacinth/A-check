@@ -1,2 +1,2 @@
 # A-check
-Checking attendance calendar
+Checking continuous attendance calendar
