@@ -1,7 +1,7 @@
 <template>
-  <div class="date">
+  <a class="date" href="#">
 
-  </div>
+  </a>
 </template>
 <script>
 export default {
@@ -19,5 +19,8 @@ export default {
     border: 1px solid #000;
     border-radius: 50%;
     box-sizing: border-box;
+    &.attend {
+      background-color: #0bf;
+    }
   }
 </style>
